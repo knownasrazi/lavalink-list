@@ -295,7 +295,7 @@
         "secure": false,
         "restVersion": "v4",
         "authorId": "338502866148917249"
-    }, 
+    },
     {
         "identifier": "Germany",
         "host": "fn1.solarnode.xyz",
@@ -304,7 +304,7 @@
         "secure": false,
         "restVersion": "v4",
         "authorId": "1186375223583440967"
-    }, 
+    },
     {
         "identifier": "USA",
         "host": "badass.kalamii.net",
@@ -313,6 +313,14 @@
         "secure": false,
         "restVersion": "v4",
         "authorId": "1186375223583440967"
+    },
+    {
+        "identifier": "nazha",
+        "host": "lavalink.nazha.online",
+        "port": 443,
+        "password": "nazhafreelava",
+        "secure": true,
+        "restVersion": "v4",
+        "authorId": "875402851986325504"
     }
 ]
-
