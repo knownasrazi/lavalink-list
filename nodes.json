@@ -21,38 +21,5 @@
         "authorId": "knownasrazi",
         "website": "https://github.com/knownasrazi/nazha-free-lavalink",
         "discord": "https://discord.gg/XeSCnk57ZF"
-    },
-    {
-        "identifier": "Nazha - Singapore 1",
-        "host": "sg-1.nazha.online",
-        "port": 443,
-        "password": "https://discord.gg/XeSCnk57ZF",
-        "secure": true,
-        "restVersion": "v4",
-        "authorId": "knownasrazi",
-        "website": "https://github.com/knownasrazi/nazha-free-lavalink",
-        "discord": "https://discord.gg/XeSCnk57ZF"
-    },
-    {
-        "identifier": "Nazha - Singapore 2",
-        "host": "sg-2.nazha.online",
-        "port": 443,
-        "password": "https://discord.gg/XeSCnk57ZF",
-        "secure": true,
-        "restVersion": "v4",
-        "authorId": "knownasrazi",
-        "website": "https://github.com/knownasrazi/nazha-free-lavalink",
-        "discord": "https://discord.gg/XeSCnk57ZF"
-    },
-    {
-        "identifier": "Nazha - Singapore 3",
-        "host": "sg-3.nazha.online",
-        "port": 443,
-        "password": "https://discord.gg/XeSCnk57ZF",
-        "secure": true,
-        "restVersion": "v4",
-        "authorId": "knownasrazi",
-        "website": "https://github.com/knownasrazi/nazha-free-lavalink",
-        "discord": "https://discord.gg/XeSCnk57ZF"
     }
 ]
